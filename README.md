@@ -7,7 +7,7 @@ I will continue to post new Jupyter Notebooks as I write them.
 Please note the data this tool collects is [copyrighted by MLBAM](http://gdx.mlb.com/components/copyright.txt)
 and cannot be used for commercial purposes.
 
-The [MLB API](https://appac.github.io/mlb-data-api-docs/) is very useful but is somewhat sloppy. This tool
+The [MLB API](https://appac.github.io/mlb-data-api-docs/) is very useful but somewhat sloppy. This tool
 aims to make their data available to you and me but in a usable format.
 
 ## Using the Tool
